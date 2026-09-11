@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @tuuyennote
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# hi, i'm huydep
 
-<!---
-tuuyennote/tuuyennote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+just a regular person who likes tinkering with code.
+
+### about me
+- currently learning and building small stuff in my free time
+- still figuring things out, one commit at a time
+- mostly hanging around linux and simple scripts
+
+### tech stack
+- python
+- javascript
+- git
+- linux
+
+### projects
+coming soon — still working on a few things. check back later :)
+
+---
+feel free to reach out if you wanna chat about code or whatever
